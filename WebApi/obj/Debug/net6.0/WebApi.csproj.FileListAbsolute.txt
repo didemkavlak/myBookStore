@@ -25,3 +25,7 @@ C:\Users\didem\Desktop\myBookStore\WebApi\obj\Debug\net6.0\refint\WebApi.dll
 C:\Users\didem\Desktop\myBookStore\WebApi\obj\Debug\net6.0\WebApi.pdb
 C:\Users\didem\Desktop\myBookStore\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
 C:\Users\didem\Desktop\myBookStore\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+C:\Users\didem\Desktop\myBookStore\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\didem\Desktop\myBookStore\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\didem\Desktop\myBookStore\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\didem\Desktop\myBookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
