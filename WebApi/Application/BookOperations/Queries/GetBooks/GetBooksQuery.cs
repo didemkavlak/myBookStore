@@ -1,8 +1,9 @@
-using AutoMapper;
-using WebApi.Common;
-using WebApi.DBOperations;
 
-namespace WebApi.BookOperations.GetBooks
+using AutoMapper;
+using WebApi.DBOperations;
+using WebApi.Entities;
+
+namespace WebApi.Applications.BookOperations.Commands.GetBooks
 {
     public class GetBooksQuery
     {
